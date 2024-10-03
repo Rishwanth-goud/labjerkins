@@ -1,4 +1,4 @@
-public class Saample
+public class Sample
 {
 	public static void main(String args[])
 	{
@@ -8,5 +8,6 @@ public class Saample
 	}
 
 }
+
 
 
